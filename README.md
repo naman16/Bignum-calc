@@ -1,2 +1,1 @@
-# Bignum-calculator
-# Bignum-calc
+Given 2 numbers between base 2 and 36, this calculator can perform basic arithmetic and logical operators on these numbers. It also checks for valid inputs and gives an error pointing out what the mistake is if the input is not valid. 
